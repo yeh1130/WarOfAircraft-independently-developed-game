@@ -1,6 +1,6 @@
-# 飞机大战
-## 介绍
-C++课程作业，Qt团队项目，简易版飞机大战
+# WarOfAircraft-independently-developed-game
+## introduction
+C++curriculum homework，Qt team work
 
-## 软件架构
-基于Qt
+## software structure
+base on Qt
